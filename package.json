@@ -1,6 +1,6 @@
 {
   "name": "react-native-smooth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "smooth.js",
   "repository": {
@@ -14,7 +14,17 @@
     "transform",
     "smooth"
   ],
-  "author": "Rocman Zhao",
+  "author": "rocman",
+  "maintainers": [
+    {
+      "name": "world-wide-web",
+      "email": "world-wide-web@foxmail.com>"
+    },
+    {
+      "name": "rocman",
+      "email": "rocman@vip.qq.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/world-wide-web/react-native-scrollable-tab-view/issues"
